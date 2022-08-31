@@ -6,9 +6,8 @@ Este projeto Nest
 
 ## Neste projeto foi utilizado:
 
-- Css Modules com typescript e Scss.
-- Importação de svg, usando como component.
-- Configurar o absolute imports
+- Sequelize
+- Express
 
 ## Stack utilizada
 
